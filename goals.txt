@@ -1,21 +1,12 @@
-Here’s a short list of your goals:
+My Personal and Academic Goals for Next Year
 
-Build and lead my own startup
-
-Create real-world tech solutions with impact
-
-Improve healthcare information systems (like MediSafe)
-
-Support agriculture through software
-
-Become a strong full-stack developer
-
-Keep learning and mastering new tools
-
-Contribute to meaningful open-source projects
-
-Gain international experience in tech
-
-Inspire others through my work
-
-Honor and expand my father's legacy in agronomy
+- Build and lead my own startup
+- Create real-world tech solutions with impact
+- Improve healthcare information systems (like MediSafe)
+- Support agriculture through software
+- Become a strong full-stack developer
+- Keep learning and mastering new tools
+- Contribute to meaningful open-source projects
+- Gain international experience in tech
+- Inspire others through my work
+- Honor and expand my father's legacy in agronomy
