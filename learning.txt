@@ -1,0 +1,1 @@
+During this course, I have learned the basics of using Git and GitHub, including how to create repositories, manage branches, and collaborate with others. I now feel more confident in using version control for my projects.
