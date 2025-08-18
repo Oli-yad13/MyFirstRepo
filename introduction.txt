@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Brief Introduction About Myself
 
 Hello! My name is Oliyad Bekele. I am passionate about technology and eager to learn more about software development and system engineering. I enjoy solving problems and collaborating with others to create meaningful solutions.
 In my free time, I like to read, explore new programming languages, and work on personal projects. I am excited to be part of this course and look forward to growing my skills.
+=======
+# Brief Introduction About Myself
+Hi, I'm Oliyad Bekele, a passionate software engineering student with a strong interest in building real-world tech solutions. I enjoy turning ideas into code, especially when it comes to projects that blend technology with social impact. I'm self-taught in many areas, always curious, and constantly pushing myself to grow. Whether it's developing apps, working with databases, or exploring how software can support agriculture and healthcare, I bring focus, creativity, and a deep drive to learn and build.
+>>>>>>> 65045fb1c0088f0b060de5e0be5b87369027eec9
